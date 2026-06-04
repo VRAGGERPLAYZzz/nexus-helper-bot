@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 const { randomChats } = require('./chats');
 
 const botOptions = {
-  host: 'dory.aternos.host',
+  host: 'LifeNexus.aternos.me',
   port: 61341,
   username: 'helper',
   version: '1.21.1' 
